@@ -35,9 +35,9 @@ projects:
     logo: /images/sections/projects/h1b.png
     role: Contributor
     timeline: "Nov 2022 - Present"
-    repo: https://github.com/fdesena/H1B-Analysis
+    repo: https://github.com/fdesena/H1-B-Analysis-for-2019-2022
     #url: ""
-    summary: Analysis on H1-B visa approvals. Performed an analysis using PowerQuery, MySQL Workbench, Python to indentify the best occupations and locations for MBAN students apply to leverage their chances to get a H1-B visa.
+    summary: Analysis on H1-B visa approvals. The goal of this project was to provide a report that examines the most attractive (in terms of approval rate and average salary) jobs for international analytics master's students who wish to work in the US and must submit an H1-B visa application. Performed an analysis using PowerQuery, MySQL Workbench, Python to indentify the best occupations and locations for MBAN students apply to leverage their chances to get a H1-B visa.
     tags: ["academic", "H1-B", "Analytics"]
 
   - name: Deal Sourcing - Tech Companies
