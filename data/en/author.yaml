@@ -8,8 +8,8 @@ image: "images/author/felipesena.jpeg"
 contactInfo:
   email: "fdesena@student.hult.edu"
   phone: "+4043079848"
-  github: https://github.com/fdesena
-  linkedin: https://www.linkedin.com/in/senafelipe/
+  github: fdesena
+  linkedin: senafelipe
 
 # some summary about what you do
 summary:
