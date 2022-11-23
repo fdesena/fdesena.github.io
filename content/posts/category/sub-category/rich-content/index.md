@@ -31,6 +31,6 @@ This sample post tests the followings:
 
 {{< vs >}}
 
-### Vimeo Video Sample
+### PDF Video Sample
 
-{{< vimeo 48912912 >}}
+{{ < embed-pdf url="./posts/category/sub-category/rich-content/images/report_blommberry.pdf" > }}
