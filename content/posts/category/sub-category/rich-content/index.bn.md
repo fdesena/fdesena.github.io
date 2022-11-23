@@ -1,41 +1,42 @@
 ---
-title: "সমৃদ্ধ কন্টেন্ট"
+title: "Bloomberry Resorts Corp. Analysis and Recommendations"
 date: 2020-06-08T08:06:25+06:00
-description: Sample post with multiple images, embedded video ect.
+description: 3 Recommendations for Bloomberry Resorts Corp. through the lens of Business Model Canva, Blue Ocean 
 menu:
   sidebar:
-    name: সমৃদ্ধ কন্টেন্ট
-    identifier: rich-content
+    name: Business recommendation
+    identifier: report
     parent: sub-category
     weight: 10
-tags: ["মার্কডাউন","কন্টেন্ট সাজানো","বহুভাষিক"]
-categories: ["বেসিক"]
+hero: images/solaire_night.jpg
+tags: ["Business Model", "Blue Ocean", "Strategy", "Analysis"]
+categories: ["Report"]
 ---
 
-এই নমুনা পোস্টটি এই বিষয়গুলো পরীক্ষা করার জন্যে করা হয়েছেঃ
+This sample post tests the followings:
 
-- বিভাগ, উপ-বিভাগে সাইডবারে একটির ভেতর আরেকটি কিভাবে আছে সেটা দেখা।
-- হেরো ছবিটি পোস্ট যে পথে আছে সে পথে `images` ফোল্ডার এ থাকবে।
-- বিভিন্ন মিডিয়া যেমন ছবি, টুইট, ইউটিউব ভিডিও, ভীমেও ভিডিও ইত্যাদি রেন্ডারিং।
+- Category, sub-category nesting in the sidebar.
+- Hero image and other images are in `images` folder inside this post directory.
+- Different media rendering like image, tweet, YouTube video, Vimeo video etc.
 
-### ছবির নমুনা
+### Image Sample
 
-{{< img src="/posts/category/sub-category/rich-content/images/forest.jpg" align="center" title="Forest" >}}
+{{< img src="/posts/category/sub-category/rich-content/images/forest.jpg" align="center" title="Forest">}}
 
 {{< vs >}}
 
-### টুইটের নুমুনা
+### Tweet Sample
 
 {{< tweet user="SanDiegoZoo" id="1453110110599868418" >}}
 
 {{< vs >}}
 
-### ইউটিওবের ভিডিও নমুনা
+### YouTube Video Sample
 
 {{< youtube ZJthWmvUzzc >}}
 
 {{< vs >}}
 
-### ভীমেও ভিডিও নমুনা
+### Vimeo Video Sample
 
 {{< vimeo 48912912 >}}

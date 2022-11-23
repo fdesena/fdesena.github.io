@@ -1,16 +1,16 @@
 ---
-title: "Rich Content"
+title: "Bloomberry Resorts Corp. Analysis and Recommendations"
 date: 2020-06-08T08:06:25+06:00
-description: Sample post with multiple images, embedded video ect.
+description: 3 Recommendations for Bloomberry Resorts Corp. through the lens of Business Model Canva, Blue Ocean 
 menu:
   sidebar:
-    name: Rich Content
-    identifier: rich-content
+    name: Business recommendation
+    identifier: report
     parent: sub-category
     weight: 10
-hero: images/forest.jpg
-tags: ["Markdown","Content Organization","Multi-lingual"]
-categories: ["Basic"]
+hero: images/solaire_night.jpg
+tags: ["Business Model", "Blue Ocean", "Strategy", "Analysis"]
+categories: ["Report"]
 ---
 
 This sample post tests the followings:

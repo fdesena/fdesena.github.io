@@ -4,11 +4,11 @@ date: 2022-06-02T08:06:25+06:00
 description: 3 Recommendations for Bloomberry Resorts Corp. through the lens of Business Model Canva, Blue Ocean Strategy Business, and industry overview
 menu:
   sidebar:
-    name: Business Recommendations - Frameworks, Innovation, Strategy, and Statistics.
-    identifier: Business Recommendation
+    name: Business Recommendations
+    identifier: report
     weight: 10
-tags: ["Basic", "Multi-lingual"]
-categories: ["Basic"]
+tags: ["Business Model", "Blue Ocean", "Strategy", "Analysis"]
+categories: ["Report"]
 ---
 
 Greeting! This is an introduction post. This post tests the followings:
