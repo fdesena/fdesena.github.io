@@ -6,11 +6,7 @@ menu:
   sidebar:
     name: Tutorials
     identifier: tutorials
-    weight: 30
-author:
-  name: Felipe Sena
-  image: /images/author/felipesena-circular.png
-math: true
+    weight: 10
 categories: ["tutorials"]
 ---
 

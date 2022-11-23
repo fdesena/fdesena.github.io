@@ -1,6 +1,6 @@
 ---
 title: "Careers in Anlytics with higher approvals rates of the H1-B VISA"
-date: 2020-10-05:06:25+06:00
+date: 2020-10-05T08:06:25+06:00
 description: H1-B VISA Analysis
 menu:
   sidebar:
