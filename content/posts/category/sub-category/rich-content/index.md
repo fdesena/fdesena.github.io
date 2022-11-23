@@ -20,20 +20,21 @@ This sample report shows the followings:
 - Tools and Skills: `Business Model Canvas, Blue Ocean Strategy, Market Research, Statistics (Summary statistics, correlation, Linear-Regression`)
 
 ### Final Report
+<p>
+Dowload the full report and problem statement
+  <a href="https://drive.google.com/file/d/1uj0YMNvkmtXlcyJi3FPz55hl8AbXyPpU/view?usp=share_link]L/view" target="_blank">here</a>
+  "."
+</p>
 
 {{< embed-pdf url="./report_blommberry.pdf" >}}
 {{< vs >}}
 
 <div class="button_cont">
   <a class="example_d" href="/static/docs/report_blommberry.pdf">
-    {{ i18n "CTAbutton"}}
+    Download here.
   </a>
 </div>
 
 
-<p>
-"Dowload the full report and problem statement "
-  <a href-"https://drive.google.com/file/d/1uj0YMNvkmtXlcyJi3FPz55hl8AbXyPpU/view?usp=share_link]L/view" target="_blank">here</a>
-  "."
-</p>
+
 
