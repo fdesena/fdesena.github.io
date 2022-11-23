@@ -16,8 +16,8 @@ categories: ["Report"]
 This sample report shows the followings:
 
 - Analyze of `Blommberry Resorts and Hotels Inc.` Business Model and opportunities for improvement.
-- The CEO is given three (3) detailed recommendations for the following steps, each backed up by data and information from reliable sources.
-- Tools and Skills: Business Model Canvas, Blue Ocean Strategy, Market Research, Statistics (Summary statistics, correlatiom, Linear-Regression)
+- The CEO is given 3 detailed recommendations for the following steps, each backed up by data and information from reliable sources.
+- Tools and Skills: `Business Model Canvas, Blue Ocean Strategy, Market Research, Statistics (Summary statistics, correlation, Linear-Regression`)
 
 ### Final Report
 
