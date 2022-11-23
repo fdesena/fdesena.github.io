@@ -26,3 +26,5 @@ Dowload the full report
 
 {{< embed-pdf url="./report_blommberry.pdf" >}}
 {{< vs >}}
+
+<script id="dsq-count-scr" src="//felipesena.disqus.com/count.js" async></script>
