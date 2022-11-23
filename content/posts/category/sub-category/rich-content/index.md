@@ -13,19 +13,13 @@ tags: ["Strategy", "Analysis"]
 categories: ["Report"]
 ---
 
-This sample post tests the followings:
+This sample report shows the followings:
 
-- Category, sub-category nesting in the sidebar.
-- Hero image and other images are in `images` folder inside this post directory.
-- Different media rendering like image, tweet, YouTube video, Vimeo video etc.
+- Analyze of `Blommberry Resorts and Hotels Inc.` Business Model and opportunities for improvement.
+- The CEO is given three (3) detailed recommendations for the following steps, each backed up by data and information from reliable sources.
+- Tools and Skills: Business Model Canvas, Blue Ocean Strategy, Market Research, Statistics (Summary statistics, correlatiom, Linear-Regression)
 
-### Image Sample
-
-{{< img src="/posts/category/sub-category/rich-content/images/solaire_night.jpg" align="center" title="Solaire">}}
-
-{{< vs >}}
-
-### PDF Sample
+### Final Report
 
 {{< embed-pdf url="./report_blommberry.pdf" >}}
 
