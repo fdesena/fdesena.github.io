@@ -4,7 +4,7 @@ date: 2020-10-05:06:25+06:00
 description: H1-B VISA Analysis
 menu:
   sidebar:
-    name: h1b_analysis
+    name: H1-B VISA Analysis
     identifier: h1b_analysis
     parent: reports
     weight: 40

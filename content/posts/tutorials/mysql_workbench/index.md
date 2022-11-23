@@ -4,8 +4,8 @@ date: 2020-11-10T08:06:25+06:00
 description: Tutorial on mySQL
 menu:
   sidebar:
-    name: mySQL_tutorial
-    identifier: mySQL_tutorial
+    name: mySQL Tutorial
+    identifier: my_sql_tutorial
     parent: tutorials
     weight: 30
 author:

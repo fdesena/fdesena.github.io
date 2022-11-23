@@ -4,7 +4,7 @@ date: 2020-11-10T08:06:25+06:00
 description: Tutorial on mySQL
 menu:
   sidebar:
-    name: tutorials
+    name: Tutorials
     identifier: tutorials
     weight: 30
 author:

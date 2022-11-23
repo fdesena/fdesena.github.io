@@ -4,7 +4,7 @@ date: 2022-11-23T08:06:25+06:00
 description: 3 Recommendations for Bloomberry Resorts Corp. through the lens of Business Model Canva, Blue Ocean 
 menu:
   sidebar:
-    name: report_bloomberry
+    name: Business Recommendation - Bloomberry
     identifier: report_bloomberry
     parent: reports
     weight: 10
