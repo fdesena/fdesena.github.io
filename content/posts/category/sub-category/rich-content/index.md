@@ -1,6 +1,6 @@
 ---
 title: "Bloomberry Resorts Corp. Analysis and Recommendations"
-date: 2020-06-08T08:06:25+06:00
+date: 2022-11-23T08:06:25+06:00
 description: 3 Recommendations for Bloomberry Resorts Corp. through the lens of Business Model Canva, Blue Ocean 
 menu:
   sidebar:
@@ -27,6 +27,6 @@ This sample post tests the followings:
 
 ### PDF Video Sample
 
-{{ < embed-pdf url="/posts/category/sub-category/rich-content/images/report_blommberry.pdf" > }}
+{{ < embed-pdf src="/posts/category/sub-category/rich-content/images/report_blommberry.pdf" > }}
 
 {{< vs >}}
