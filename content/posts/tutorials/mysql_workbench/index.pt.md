@@ -8,7 +8,7 @@ menu:
     identifier: my_sql_tutorial
     parent: tutorials
     weight: 40
-hero: hero.jpg
+hero: images/MySQL_Workbench.png
 mermaid: true
 categories: ["reports", "tutorials"]
 ---

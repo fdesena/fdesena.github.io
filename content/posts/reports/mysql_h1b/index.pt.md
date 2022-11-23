@@ -8,7 +8,7 @@ menu:
     identifier: h1b_analysis
     parent: reports
     weight: 40
-hero: boat.jpg
+hero: images/h1b.jpg
 mermaid: true
 categories: ["reports", "tutorials"]
 ---
