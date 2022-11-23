@@ -6,6 +6,7 @@ menu:
   sidebar:
     name: Business Recommendations
     identifier: report
+    parent: Introduction
     weight: 10
 tags: ["Strategy", "Analysis"]
 categories: ["Report"]

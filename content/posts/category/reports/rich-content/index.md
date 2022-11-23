@@ -5,8 +5,8 @@ description: 3 Recommendations for Bloomberry Resorts Corp. through the lens of 
 menu:
   sidebar:
     name: Business recommendation
-    identifier: report
-    parent: sub-category
+    identifier: reports
+    parent: reports
     weight: 10
 hero: images/solaire_night.jpg
 tags: ["Strategy", "Analysis"]
