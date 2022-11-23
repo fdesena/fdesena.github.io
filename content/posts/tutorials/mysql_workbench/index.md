@@ -6,6 +6,7 @@ menu:
   sidebar:
     name: mySQL Tutorial
     identifier: mySQL
+    parent: tutorials
     weight: 30
 author:
   name: Felipe Sena
