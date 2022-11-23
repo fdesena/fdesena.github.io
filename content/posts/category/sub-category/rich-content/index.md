@@ -33,10 +33,16 @@ This sample post tests the followings:
 
 ### YouTube Video Sample
 
-{{< youtube ZJthWmvUzzc >}}
+{{< youtube YAfHj4DVmJo >}}
 
 {{< vs >}}
 
 ### Vimeo Video Sample
 
 {{< vimeo 48912912 >}}
+
+#### A center aligned pdf with `height` and `width` attributes.
+
+{{< embed src="/posts/category/sub-category/rich-content/image/report_blommberry.pdf" width="500" height="375" >}}
+
+{{< vs 3 >}}
