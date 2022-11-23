@@ -27,17 +27,6 @@ This sample post tests the followings:
 
 ### PDF Sample
 
-
-{{ < embed-pdf src="./content/posts/category/sub-category/rich-content/images/report_blommberry.pdf" > }}
-
-{{ < embed-pdf src="./content/posts/category/sub-category/rich-content/images/report_blommberry.pdf" > }}
-
-{{< embed-pdf url="/content/posts/category/sub-category/rich-content/images/report_blommberry.pdf" >}}
-
 {{< embed-pdf url="./content/posts/category/sub-category/rich-content/images/report_blommberry.pdf" >}}
-
-{{< embed-pdf url="./report_blommberry.pdf" >}}
-
-{{< embed-pdf url="/report_blommberry.pdf" >}}
 
 {{< vs >}}
