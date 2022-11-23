@@ -25,10 +25,8 @@ This sample post tests the followings:
 
 {{< vs >}}
 
-### PDF Video Sample
+### PDF Sample
 
-{{ < embed-pdf src="./posts/category/sub-category/rich-content/images/report_blommberry.pdf" > }}
+{{ < embed-pdf url="/posts/category/sub-category/rich-content/images/report_blommberry.pdf" > }}
 
 {{< vs >}}
-
-{{ < script src= "/posts/category/sub-category/rich-content/images/report_blommberry.pdf"> </ script > }}
