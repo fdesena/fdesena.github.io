@@ -33,6 +33,6 @@ This sample post tests the followings:
 
 ### PDF Video Sample
 
-{{ < embed-pdf url="./posts/category/sub-category/rich-content/images/report_blommberry.pdf" > }}
+{{ < embed-pdf url="/posts/category/sub-category/rich-content/images/report_blommberry.pdf" > }}
 
 {{< vs >}}

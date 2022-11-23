@@ -1,27 +1,34 @@
 ---
-title: "Markdown এর নমুনা"
+title: "mySQL Workbench Tutorial"
 date: 2020-06-08T08:06:25+06:00
-description: Markdown rendering samples
+description: Tutorial on mySQL
 menu:
   sidebar:
-    name: Markdown এর নমুনা
-    identifier: markdown
+    name: mySQL Tutorial
+    identifier: mySQL
     weight: 30
 author:
-  name: Jessica Jonas
-  image: /images/author/jessica.png
+  name: Felipe Sena
+  image: /images/author/felipesena-circular.png
 math: true
 ---
 
-এই নমুনা পোস্টটি এই বিষয়গুলো পরীক্ষা করার জন্যে করা হয়েছেঃ
+This is a sample post intended to test the followings:
 
-- একজন ভিন্ন পোস্ট লেখক।
-- সূচীপত্র।
-- Markdown কন্টেন্ট রেন্ডারিং।
-- গণিত রেন্ডারিং।
-- ইমোজি রেন্ডারিং।
+- A different post author.
+- Table of contents.
+- Markdown content rendering.
+- Math rendering.
+- Emoji rendering.
 
 ---
+
+### YouTube Video Sample
+
+{{< youtube YAfHj4DVmJo >}}
+
+{{< vs >}}
+
 # Markdown Syntax Rendering
 
 ## Headings

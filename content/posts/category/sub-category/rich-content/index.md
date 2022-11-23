@@ -25,14 +25,8 @@ This sample post tests the followings:
 
 {{< vs >}}
 
-### YouTube Video Sample
-
-{{< youtube YAfHj4DVmJo >}}
-
-{{< vs >}}
-
 ### PDF Video Sample
 
-{{ < embed-pdf url="./posts/category/sub-category/rich-content/images/report_blommberry.pdf" > }}
+{{ < embed-pdf url="/posts/category/sub-category/rich-content/images/report_blommberry.pdf" > }}
 
 {{< vs >}}
