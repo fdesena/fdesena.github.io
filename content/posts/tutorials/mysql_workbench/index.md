@@ -4,15 +4,15 @@ date: 2020-11-10T08:06:25+06:00
 description: Tutorial on mySQL
 menu:
   sidebar:
-    name: mySQL Tutorial
-    identifier: mySQL
+    name: mySQL_tutorial
+    identifier: mySQL_tutorial
     parent: tutorials
     weight: 30
 author:
   name: Felipe Sena
   image: /images/author/felipesena-circular.png
 math: true
-categories: ["Tutorial"]
+categories: ["tutorials"]
 ---
 
 This is a sample post intended to test the followings:
