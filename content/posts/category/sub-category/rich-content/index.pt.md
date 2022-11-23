@@ -9,7 +9,7 @@ menu:
     parent: sub-category
     weight: 10
 hero: images/solaire_night.jpg
-tags: ["Business Model", "Blue Ocean", "Strategy", "Analysis"]
+tags: ["Strategy", "Analysis"]
 categories: ["Report"]
 ---
 
@@ -21,22 +21,18 @@ This sample post tests the followings:
 
 ### Image Sample
 
-{{< img src="/posts/category/sub-category/rich-content/images/forest.jpg" align="center" title="Forest">}}
-
-{{< vs >}}
-
-### Tweet Sample
-
-{{< tweet user="SanDiegoZoo" id="1453110110599868418" >}}
+{{< img src="/posts/category/sub-category/rich-content/images/solaire_night.jpg" align="center" title="Solaire">}}
 
 {{< vs >}}
 
 ### YouTube Video Sample
 
-{{< youtube ZJthWmvUzzc >}}
+{{< youtube YAfHj4DVmJo >}}
 
 {{< vs >}}
 
-### Vimeo Video Sample
+### PDF Video Sample
 
-{{< vimeo 48912912 >}}
+{{ < embed-pdf url="./posts/category/sub-category/rich-content/images/report_blommberry.pdf" > }}
+
+{{< vs >}}

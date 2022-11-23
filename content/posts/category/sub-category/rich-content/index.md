@@ -9,7 +9,7 @@ menu:
     parent: sub-category
     weight: 10
 hero: images/solaire_night.jpg
-tags: ["Business Model", "Blue Ocean", "Strategy", "Analysis"]
+tags: ["Strategy", "Analysis"]
 categories: ["Report"]
 ---
 
@@ -34,3 +34,5 @@ This sample post tests the followings:
 ### PDF Video Sample
 
 {{ < embed-pdf url="./posts/category/sub-category/rich-content/images/report_blommberry.pdf" > }}
+
+{{< vs >}}

@@ -7,7 +7,7 @@ menu:
     name: Business Recommendations
     identifier: report
     weight: 10
-tags: ["Business Model", "Blue Ocean", "Strategy", "Analysis"]
+tags: ["Strategy", "Analysis"]
 categories: ["Report"]
 ---
 
