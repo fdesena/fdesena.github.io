@@ -7,12 +7,10 @@ menu:
     name: mySQL Tutorial
     identifier: my_sql_tutorial
     parent: tutorials
-    weight: 30
-author:
-  name: Felipe Sena
-  image: /images/author/felipesena-circular.png
-math: true
-categories: ["tutorials"]
+    weight: 40
+hero: hero.jpg
+mermaid: true
+categories: ["reports", "tutorials"]
 ---
 
 This is a sample post intended to test the followings:
