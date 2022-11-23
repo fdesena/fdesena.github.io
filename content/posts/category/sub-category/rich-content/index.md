@@ -27,6 +27,6 @@ This sample post tests the followings:
 
 ### PDF Video Sample
 
-{{ < embed-pdf src="/posts/category/sub-category/rich-content/images/report_blommberry.pdf" > }}
+{{ < embed-pdf src="./posts/category/sub-category/rich-content/images/report_blommberry.pdf" > }}
 
 {{< vs >}}
