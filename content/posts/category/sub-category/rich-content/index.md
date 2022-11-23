@@ -21,19 +21,9 @@ This sample report shows the followings:
 
 ### Final Report
 <p>
-Dowload the full report and problem statement
+Dowload the full report
   <a href="https://drive.google.com/file/d/1uj0YMNvkmtXlcyJi3FPz55hl8AbXyPpU/view?usp=share_link]L/view" target="_blank">here</a>.
 </p>
 
 {{< embed-pdf url="./report_blommberry.pdf" >}}
 {{< vs >}}
-
-<div class="button_cont">
-  <a class="example_d" href="/posts/category/sub-category/rich-content/report_blommberry.pdf">
-    Download here
-  </a>
-</div>
-
-
-
-
