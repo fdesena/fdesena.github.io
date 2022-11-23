@@ -10,7 +10,7 @@ menu:
     weight: 10
 hero: images/solaire_night.jpg
 tags: ["Strategy", "Analysis"]
-categories: ["Report"]
+categories: ["Reports"]
 ---
 
 This sample report shows the followings:
@@ -29,8 +29,8 @@ Dowload the full report and problem statement
 {{< vs >}}
 
 <div class="button_cont">
-  <a class="example_d" href="/static/files/report_blommberry.pdf">
-    Download here.
+  <a class="example_d" href="/posts/category/sub-category/rich-content/report_blommberry.pdf">
+    Download here
   </a>
 </div>
 
