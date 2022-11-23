@@ -20,3 +20,12 @@ This is a report intended to discover the followings:
 - How long it takes on average to get the H1-B VISA
 - Summary statistics
 - Conclusion
+
+### Final Report
+<p>
+Dowload the full report
+  <a href="https://drive.google.com/file/d/1_1uR4BFyMvkjbFW3zv_gU6X-U3bhR-wK/view?usp=share_link]L/view" target="_blank">here</a>.
+</p>
+
+{{< embed-pdf url="./h1b_primary_analysis.pdf" >}}
+{{< vs >}}
