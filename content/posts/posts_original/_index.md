@@ -1,11 +1,11 @@
 ---
-title: "Posts"
+title: "Introduction"
 date: 2022-10-05T08:06:25+06:00
 description: Tutorials I build to help the community and showcase my skills
 menu:
   sidebar:
-    name: Posts
-    identifier: posts
+    name: Introduction
+    identifier: introduction
     weight: 10
 categories: ["reports", "tutorials"]
 ---
