@@ -6,6 +6,7 @@ menu:
   sidebar:
     name: Reports
     identifier: reports
+    parent: posts
     weight: 10
 categories: ["reports"]
 ---
