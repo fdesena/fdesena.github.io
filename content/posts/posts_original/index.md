@@ -7,6 +7,7 @@ menu:
     name: Introduction
     identifier: introduction
     weight: 10
+hero: background.jpg
 categories: ["reports", "tutorials"]
 ---
 
