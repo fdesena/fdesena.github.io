@@ -28,4 +28,4 @@ Dowload the full report
 {{< vs >}}
 
 ### Excel Data Analysis (data, graphs, regressions, comments)
-<iframe width="408" height="288.9" frameborder="0" scrolling="no" src="https://hultstudents-my.sharepoint.com/personal/fdesena_student_hult_edu/_layouts/15/Doc.aspx?sourcedoc={50e49587-15eb-4a9c-b778-d266b4f4b3c5}&action=embedview&wdAllowInteractivity=False&ActiveCell='Industry%20Data%20-%20IBIS%20'!A1&Item=embed&wdHideGridlines=True&wdDownloadButton=True&wdInConfigurator=True&wdInConfigurator=True&edesNext=true&edrtees6=false&resen=false"></iframe>
+<iframe width="700" height="650" frameborder="0" scrolling="no" src="https://hultstudents-my.sharepoint.com/personal/fdesena_student_hult_edu/_layouts/15/Doc.aspx?sourcedoc={50e49587-15eb-4a9c-b778-d266b4f4b3c5}&action=embedview&wdAllowInteractivity=False&ActiveCell='Industry%20Data%20-%20IBIS%20'!A1&Item=embed&wdHideGridlines=True&wdDownloadButton=True&wdInConfigurator=True&wdInConfigurator=True&edesNext=true&edrtees6=false&resen=false"></iframe>
