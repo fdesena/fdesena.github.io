@@ -1,5 +1,5 @@
 ---
-title: "Posts"
+title: "Introduction"
 date: 2022-10-05T08:06:25+06:00
 description: Tutorials I build to help the community and showcase my skills
 menu:
@@ -7,7 +7,7 @@ menu:
     name: Posts
     identifier: posts
     weight: 10
-categories: ["posts"]
+categories: ["reports", "tutorials"]
 ---
 
 ### Introduction 
