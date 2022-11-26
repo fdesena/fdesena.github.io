@@ -32,8 +32,7 @@ Dowload the full report
 
 `Organized data, graphs, regressions, comments`
 
-<iframe width="772" height="500" frameborder="0" scrolling="no" src="https://hultstudents-my.sharepoint.com/personal/fdesena_student_hult_edu/_layouts/15/Doc.aspx?sourcedoc={50e49587-15eb-4a9c-b778-d266b4f4b3c5}&action=embedview&wdAllowInteractivity=False&ActiveCell='Industry%20Data%20-%20IBIS%20'!A1&Item=embed&wdHideGridlines=True&wdDownloadButton=True&wdInConfigurator=True&wdInConfigurator=True&edesNext=true&edrtees6=false&resen=false"></iframe>
-
+<iframe width="772" height="500" frameborder="0" scrolling="no" src="https://onedrive.live.com/embed?resid=8AB348595F135122%2129899&authkey=%21APF8yM47JVsy2_o&em=2&wdAllowInteractivity=False&ActiveCell='Industry%20Data%20-%20IBIS%20'!A1&wdHideGridlines=True&wdHideHeaders=True&wdDownloadButton=True&wdInConfigurator=True&wdInConfigurator=True&edesNext=true&edrtees6=false&resen=false"></iframe>
 
 ### Join the discussion
 <script id="dsq-count-scr' src="//felipesena.disqus.com/count.is" async></script>
