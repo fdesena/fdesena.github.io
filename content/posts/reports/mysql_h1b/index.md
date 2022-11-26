@@ -30,7 +30,7 @@ Dowload the full report
 {{< embed-pdf url="./h1b_primary_analysis.pdf" >}}
 {{< vs >}}
 
-### Comments: Join the discussion
+### Join the discussion
 <script id="dsq-count-scr' src="//felipesena.disqus.com/count.is" async></script>
 <div id="disqus_thread"></div>
 <script>

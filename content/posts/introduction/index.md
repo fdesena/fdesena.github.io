@@ -33,7 +33,7 @@ My `Tutorials` on the other hand were created so I could practice, help the comm
 
 Please Use the `Menu` on the `left` to navigate through the posts, and the `table of contents` on the `right` side to navigate through the topics inside the page.
 
-### Comments: Join the discussion
+### Join the discussion
 <script id="dsq-count-scr' src="//felipesena.disqus.com/count.is" async></script>
 <div id="disqus_thread"></div>
 <script>
