@@ -36,9 +36,7 @@ Dowload the full report
 
 
 <! --- add counter  -->
-
 <script id="dsq-count-scr' src="//felipesena.disqus.com/count.is" async></script>
-<a href=" {{ content.absolute_url }}#disqus_thread">Post a comment</a>
 
 ### Comments: Join the discussion
 <div id="disqus_thread"></div>
