@@ -1,10 +1,10 @@
 # section information
 section:
-  name: Posts Recentes
+  name: Projetos
   id: recent-posts
-  enable: false
+  enable: true
   weight: 5
-  showOnNavbar: false
+  showOnNavbar: true
   template: sections/recent-posts.html
   # Can optionally hide the title in sections
   # hideTitle: true
