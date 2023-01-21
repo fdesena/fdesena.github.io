@@ -33,8 +33,10 @@ To access an interactive jupter notebook clike in the link below (It will open a
 Or you can copy and paste the code below and run the game in your own Jupyter notebook. Let me know in the comments
 if you want me to make a tutorial on how to download Python and Jupyter notebooks.
 
-<iframe src="https://mybinder.org/v2/gh/fdesena/notebooks/f36b8cac8258a53fc57dbcbddfbc5bd1815818fc?filepath=gas_station_pygame.ipynb" width="772" height="500"></iframe>
-
+<iframe 
+    src="https://nbviewer.org/github/fdesena/notebooks/blob/f36b8cac8258a53fc57dbcbddfbc5bd1815818fc/gas_station_pygame.ipynb" 
+    width="772" height="500">
+</iframe>
 
 ### Join the discussion
 <script id="dsq-count-scr' src="//felipesena.disqus.com/count.is" async></script>

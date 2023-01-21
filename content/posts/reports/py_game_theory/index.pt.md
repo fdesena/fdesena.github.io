@@ -34,7 +34,7 @@ For an interactive experience acess the mybinder by clicking in the buttom below
     width="772" height="500">
 </iframe>
 
-<iframe src="/workspaces/fdesena.github.io/content/posts/reports/py_game_theory/felipesena_gametheory_pygame.ipynb" width="100%" height="500"></iframe>
+<iframe src="/workspaces/fdesena.github.io/content/posts/reports/py_game_theory/felipesena_gametheory_pygame.html" width="100%" height="500"></iframe>
 
 ### Join the discussion
 <script id="dsq-count-scr' src="//felipesena.disqus.com/count.is" async></script>
