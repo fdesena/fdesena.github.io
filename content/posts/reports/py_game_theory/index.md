@@ -23,14 +23,14 @@ This is a text based game created in python language and running in a Jupter not
 
 ### Jupter Notebook: Gas Station Game
 
-See below a static Jupyter notebook showing the code of the game.
-
-For an interactive experience acess the mybinder by clicking in the buttom below:
 <p>
-Dowload the full report:
+To access an interactive jupter notebook clike in the link below (It will open a new window):
   <a href="https://mybinder.org/v2/gh/fdesena/notebooks/HEAD" target="_blank"> here </a>. 
 </p>
 [![Binder](https://mybinder.org/badge_logo.svg)]
+
+Or you can copy and paste the code below and run the game in your own Jupyter notebook. Let me know in the comments
+if you want me to make a tutorial on how to download Python and Jupyter notebooks.
 
 <iframe src="https://nbviewer.org/github/fdesena/notebooks/blob/f36b8cac8258a53fc57dbcbddfbc5bd1815818fc/gas_station_pygame.ipynb" width="772" height="500"></iframe>
 
