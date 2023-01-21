@@ -23,7 +23,7 @@ This is a text based game created in python language and running in a Jupter not
 
 ### Jupter Notebook: Gas Station Game
 
-See bellow a static Jupyter notebook showing the code of the game.
+See below a static Jupyter notebook showing the code of the game.
 
 For an interactive experience acess the mybinder by clicking in the buttom below:
 
