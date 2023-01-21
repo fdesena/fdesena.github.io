@@ -27,10 +27,10 @@ See below a static Jupyter notebook showing the code of the game.
 
 For an interactive experience acess the mybinder by clicking in the buttom below:
 <p>
-Dowload the full report
-  <a href="https://mybinder.org/v2/gh/fdesena/notebooks/HEAD]L/view" target="_blank">[![Binder](https://mybinder.org/badge_logo.svg)]</a>.
+Dowload the full report:
+  <a href="https://mybinder.org/v2/gh/fdesena/notebooks/HEAD" target="_blank"> here </a>. 
 </p>
-
+[![Binder](https://mybinder.org/badge_logo.svg)]
 
 <iframe src="https://nbviewer.org/github/fdesena/notebooks/blob/f36b8cac8258a53fc57dbcbddfbc5bd1815818fc/gas_station_pygame.ipynb" width="772" height="500"></iframe>
 
