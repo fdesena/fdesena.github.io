@@ -23,10 +23,7 @@ This is a text based game created in python language and running in a Jupter not
 
 ### Jupter Notebook: Gas Station Game
 
-<iframe 
-    src="https://mybinder.org/v2/gh/fdesena/notebooks/da0146f615822b2938c1bb5eec1e9337dcbc9271?urlpath=lab%2Ftree%2Fgas_station_pygame.ipynb" 
-    width="772" height="500">
-</iframe>
+<iframe src="https://notebooks.gesis.org/binder/jupyter/user/fdesena-notebooks-6vgcmtwk/lab/tree/gas_station_pygame.ipynb" width="772" height="500"></iframe>
 
 ### Join the discussion
 <script id="dsq-count-scr' src="//felipesena.disqus.com/count.is" async></script>
