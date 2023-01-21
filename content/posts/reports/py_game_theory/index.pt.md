@@ -23,7 +23,7 @@ Este é um jogo baseado em texto criado em linguagem python e executado em um no
 
 ### Jupter Notebook: Gas Station Game
 
-See bellow a static Jupyter notebook showing the code of the game.
+See below a static Jupyter notebook showing the code of the game.
 
 For an interactive experience acess the mybinder by clicking in the buttom below:
 
@@ -34,9 +34,7 @@ For an interactive experience acess the mybinder by clicking in the buttom below
     width="772" height="500">
 </iframe>
 
-<iframe src="https://www.kaggle.com/embed/fdesena/gas-station-notebook?kernelSessionId=116977252" height="800" style="margin: 0 auto; width: 100%; max-width: 950px;" frameborder="0" scrolling="auto" title="gas_station_notebook"></iframe>
-
-<iframe src="/content/posts/reports/py_game_theory/felipesena_gametheory_pygame.ipynb" width="100%" height="500"></iframe>
+<iframe src="/workspaces/fdesena.github.io/content/posts/reports/py_game_theory/felipesena_gametheory_pygame.ipynb" width="100%" height="500"></iframe>
 
 ### Join the discussion
 <script id="dsq-count-scr' src="//felipesena.disqus.com/count.is" async></script>
