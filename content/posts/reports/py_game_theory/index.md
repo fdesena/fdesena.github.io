@@ -25,14 +25,15 @@ This is a text based game created in python language and running in a Jupter not
 
 <p>
 To access an interactive jupter notebook clike in the link below (It will open a new window):
-  <a href="https://mybinder.org/v2/gh/fdesena/notebooks/HEAD" target="_blank"> here </a>. 
+  <a href="https://mybinder.org/v2/gh/fdesena/notebooks/HEAD" target="_blank"> here </a>.
 </p>
-[![Binder](https://mybinder.org/badge_logo.svg)]
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/fdesena/notebooks/HEAD)
 
 Or you can copy and paste the code below and run the game in your own Jupyter notebook. Let me know in the comments
 if you want me to make a tutorial on how to download Python and Jupyter notebooks.
 
-<iframe src="https://nbviewer.org/github/fdesena/notebooks/blob/f36b8cac8258a53fc57dbcbddfbc5bd1815818fc/gas_station_pygame.ipynb" width="772" height="500"></iframe>
+<iframe src="https://mybinder.org/v2/gh/fdesena/notebooks/f36b8cac8258a53fc57dbcbddfbc5bd1815818fc?filepath=gas_station_pygame.ipynb" width="772" height="500"></iframe>
 
 
 ### Join the discussion
