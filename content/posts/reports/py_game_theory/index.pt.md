@@ -24,7 +24,7 @@ Este é um jogo baseado em texto criado em linguagem python e executado em um no
 ### Jupter Notebook: Gas Station Game
 
 <iframe 
-    src="https://mybinder.org/v2/git/https%3A%2F%2Fgithub.com%2Ffdesena%2Ffelipe_jupyter_notebooks.git/b67fdb2bd12b31f245e1a97a63e03eb8786b9c0e?urlpath=lab%2Ftree%2Fgas_station_pygame.ipynb" 
+    src="https://mybinder.org/v2/gh/fdesena/felipe_jupyter_notebooks/HEAD" 
     width="772" height="500">
 </iframe>
 
