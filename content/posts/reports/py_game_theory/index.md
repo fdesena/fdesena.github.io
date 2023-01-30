@@ -1,11 +1,11 @@
 ---
-title: "Game Theory using Python - Gas Station Simulation"
+title: "Python and Jupyter Nootebook Projects"
 date: 2020-10-05T08:06:25+06:00
-description: Game Theory using Python
+description: Games with Python
 menu:
   sidebar:
-    name: Game Theory with Python
-    identifier: game_theory_jupyter
+    name: Python and Jupyter Nootebook 
+    identifier: game_python_jupyter
     parent: reports
     weight: 40
 hero: images/gas_station.jpeg
@@ -13,15 +13,14 @@ mermaid: true
 categories: ["reports", "tutorials"]
 ---
 
-This is a text based game created in python language and running in a Jupter notebook.
+This first game is a text based game created in python language and running in a Jupter notebook.
 
 - This game use simple python fundamentals
-- The game is based on Game Theory
-- You can play against the computer or simulate a game computer vs computer
-- You can choose to bet on a player or run the simmulation without bet
+- The first game is based on Game Theory
+- The first game is a mistery Game based on the adventures of the greatest detective Sherlock Holmes.
 - I hope you have fun.
 
-### Jupter Notebook: Gas Station Game
+### Gas Station Game - with Python and Jupyter Notebook
 
 <p>
 To access an interactive jupter notebook clike in the link below (It will open a new window):
@@ -37,6 +36,46 @@ if you want me to make a tutorial on how to download Python and Jupyter notebook
     src="https://nbviewer.org/github/fdesena/notebooks/blob/f36b8cac8258a53fc57dbcbddfbc5bd1815818fc/gas_station_pygame.ipynb" 
     width="772" height="500">
 </iframe>
+
+### Sherlock Holmes Mystery Game - with Python and Jupyter Notebook
+
+Welcome to the Sherlock Holmes Mystery Game!
+    
+    In this game, you will take on the role of Sherlock Holmes, the world's 
+    greatest detective. You have been called to investigate a mysterious crime
+    that has occurred at 100 Education Street.
+    Your task is to gather clues and evidence, and use your reasoning skills to
+    solve the crime.
+    
+    The game has some clues, all of them are multiple-choice question.
+    
+    The game's objective is to solve the crime by correctly identifying the 
+    criminal, based on the clues provided.
+    
+    Game version: 1.0
+       
+    Stage 1: Investigate the crime
+    Stage 2: Interrogate suspects
+    Stage 3: Confront the suspect and solve the crime
+    
+    B) Known Bugs and/or Errors:
+    None.
+
+<p>
+To access an interactive jupter notebook clike in the link below (It will open a new window):
+  <a href="https://hub.gke2.mybinder.org/user/fdesena-notebooks-lorluvhb/doc/tree/sherlock_holmes_mistery_final.ipynb" target="_blank"> here </a>.
+</p>
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://hub.gke2.mybinder.org/user/fdesena-notebooks-lorluvhb/doc/tree/sherlock_holmes_mistery_final.ipynb)
+
+Or you can copy and paste the code below and run the game in your own Jupyter notebook. Let me know in the comments
+if you want me to make a tutorial on how to download Python and Jupyter notebooks.
+
+<iframe 
+    src="https://nbviewer.org/github/fdesena/notebooks/blob/main/sherlock_holmes_mistery_final.ipynb" 
+    width="772" height="500">
+</iframe>
+
 
 ### Join the discussion
 <script id="dsq-count-scr' src="//felipesena.disqus.com/count.is" async></script>
